@@ -2,4 +2,4 @@
 
 A simple slider with indicator
 
-![xslider](https://user-images.githubusercontent.com/46457480/132377439-0e989a18-261c-410b-b8f2-5c354b41bb80.jpg)
+![xslider](https://user-images.githubusercontent.com/46457480/132377854-fd083449-153b-4727-9129-4c502c8e14af.jpg)
